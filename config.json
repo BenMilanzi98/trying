@@ -1,9 +1,9 @@
 {
-    "owner": ["Your_Phonenumber@s.whatsapp.net"],
-    "openWeather": "OpenWeather_APIkey",
+    "owner": ["265884032588@s.whatsapp.net"],
+    "openWeather": "e5c9361b2bc155a3c2eae733d01ef0cb",
     "igCookie": "Instagram_Cookie",
     "session": "session-md.json",
     "legacySession": "legacy-session.json",
     "user_db": "users-db.json",
-    "timezone": "Asia/Jakarta"
+    "timezone": "Africa/Blantyre"
 }
